@@ -1,7 +1,1 @@
-🎓 High School Student
-<br><br>
-``Grade`` 2
-<br>
-``Age`` 17
-<br>
-``Country`` South Korea
+![Github Status](https://github-readme-stats.vercel.app/api?username=oneseventh&show_icons=true&theme=radical)
