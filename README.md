@@ -1,8 +1,6 @@
 <div align="left"><h2>About me</h2></div>
 <div align="left">
-    
-    17살 (06)
-    
+i interested in japaness (百合) manga!
 </div>
 <div align="left"><h2>Github Status</h2></div>
 
