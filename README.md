@@ -1,4 +1,4 @@
-[🇯🇵 日本語](https://github.com/oneseventh/oneseventh/blob/master/README-ja.md)
+[🇯🇵 日本語](https://github.com/oneseventh/oneseventh/blob/main/README-ja.md)
 
 **안녕하세요, 저는 프론트엔드 개발과 백엔드 개발을 하는 oneseventh 입니다.** 
 
